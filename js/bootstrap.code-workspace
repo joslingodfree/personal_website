@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Web Design/bootstrap"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "devportfolio"
+	}
+}
